@@ -161,7 +161,7 @@ img {
 
 /* TABLE LAYOUT */
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 539px) {
     .container {
         width: 100%;
         margin: 0 auto;
@@ -178,7 +178,7 @@ img {
     }
 
     .steps .col {
-        width: 100%;
+        width: 200%;
     }
 
     .why-us .col-left {
