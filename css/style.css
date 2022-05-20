@@ -161,7 +161,7 @@ img {
 
 /* TABLE LAYOUT */
 
-@media screen and (min-width: 539px) {
+@media screen and (min-width: 1024px) {
     .container {
         width: 100%;
         margin: 0 auto;
