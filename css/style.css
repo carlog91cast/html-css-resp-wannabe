@@ -145,7 +145,7 @@ img {
 
     .steps .col {
         width: 100%;
-    } 
+    }
 
     .why-us .col-left {
         width: 100%;
@@ -155,4 +155,37 @@ img {
         width: 100%;
     }
 
+
+
+}
+
+/* TABLE LAYOUT */
+
+@media screen and (min-width: 768px) {
+    .container {
+        width: 100%;
+        margin: 0 auto;
+        padding: 0 20px;
+    }
+
+
+    .row {
+        display: flex;
+    }
+
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
 }
